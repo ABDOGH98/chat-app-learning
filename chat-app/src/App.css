@@ -1,0 +1,30 @@
+.message {
+	background-color: #3d56b2;
+	color: white;
+	padding: 5px;
+	width: 300px;
+	border-radius: 10px;
+	overflow-wrap: break-word;
+	margin-bottom: 10px;
+	margin-left: 300px;
+}
+.messageOther {
+	background-color: #eee;
+	color: black;
+	padding: 5px;
+	width: 300px;
+	border-radius: 20px;
+	overflow-wrap: break-word;
+	margin-bottom: 10px;
+}
+.messageBox {
+	display: flex;
+	flex: 1;
+	justify-content: center;
+}
+.name {
+	color: #3d56b2;
+}
+.room {
+	color: brown;
+}
